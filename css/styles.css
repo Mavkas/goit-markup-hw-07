@@ -730,14 +730,12 @@ background-color:rgba(255, 255, 255, 0.1);}
   
   .btn-wrapper {
     display: block;
-    position: relative;
-  }
+    position: relative; }
   
   .btn-wrapper .icon {
     position: absolute;
     top: 13px;
-    right: 28px;
-  }
+    right: 28px;}
 
     /*-------------Portfolio---------*/
 .page-header{border-bottom: 1px solid #ECECEC;}    
